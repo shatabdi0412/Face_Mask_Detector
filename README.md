@@ -31,7 +31,7 @@ As a part of this project, we will be performing the following tasks:•Prepare 
 (Hint: Use MobileNetv2 as the base model)
 
 * Compile the Model using Adam optimizer, Binary Crossentropy loss, and accuracy metric functions.
-* 
+
 * Train the Model for 30 epochs
 
 (Hint: Use EarlyStopping Callback to terminate the training if there is no improvement in the monitor performance measure of your choice at certain epochs in a row)
